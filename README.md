@@ -1,5 +1,5 @@
 ### Greetings &#128075;
-My name's Tuan. I am a Freelancer with 5 years of passion in creating experience-driven products. I am proficient in NodeJS, React and TypeScript development.
+My name's Tuan. I am a Freelancer with 5 years of passion in creating experience-driven products. I am proficient in DevOps, C#, NodeJS, React and TypeScript development.
 
 ![buiductuan GitHub Stats][01]
 
